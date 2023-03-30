@@ -9,4 +9,6 @@ User Mechanics:
  - [ ] Social systems
  - [ ] [Leaderboards](MMO/Leaderboards.md)
 
-[Menu](0Main.md)
+# Other Menus
+
+[Menu](../README.md) <br>

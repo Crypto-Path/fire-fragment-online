@@ -33,6 +33,6 @@ Stats:
 
 # Other Menus
 
-[Menu](../../0Main.md) <br>
+[Menu](../../../README.md) <br>
  - [RPG](../../5RPG.md)
     - [Skills](../Skills.md)

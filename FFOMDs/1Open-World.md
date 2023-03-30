@@ -1,1 +1,3 @@
-[Menu](0Main.md)
+# Other Menus
+
+[Menu](../README.md) <br>

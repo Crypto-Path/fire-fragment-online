@@ -1,10 +1,12 @@
 User Mechinics:
+ - [ ] Inventory
+ - [ ] Dungeons
  - [ ] [Leveling](RPG/Leveling.md)
  - [ ] [Skills](RPG/Skills.md)
- - [ ] Trading
- - [ ] Story Line
  - [ ] Shops
- - [ ] Dungeons
- - [ ] Inventory
+ - [ ] Trading
+ - [ ] [Story](RPG/Story.md)
 
-[Menu](0Main.md)
+# Other Menus
+
+[Menu](../README.md) <br>
