@@ -1,4 +1,4 @@
-Leaderboards:
+## Leaderboards:
  - [ ] Levels
  - [ ] Kills (PvP & PvE)
  - [ ] Money
